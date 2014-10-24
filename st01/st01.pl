@@ -135,7 +135,7 @@ sub fromfile
 	dbmclose(%hash);
 }
 
-Sub 1
+sub st01
 {
 while(1)
 {
